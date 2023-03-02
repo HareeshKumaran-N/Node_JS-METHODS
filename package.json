@@ -1,0 +1,24 @@
+{
+  "name": "node_js-methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HareeshKumaran-N/Node_JS-METHODS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HareeshKumaran-N/Node_JS-METHODS/issues"
+  },
+  "homepage": "https://github.com/HareeshKumaran-N/Node_JS-METHODS#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
